@@ -5,9 +5,8 @@
 
 a <- as.integer(readline("Enter the  number "))
 b <- as.integer(readline("Enter the  number "))
+c <- as.integer(readline("Enter the  number "))
 
-max<-max(a,b)
-min <- min(a, b)
+mid <- (a + b + c) - min(a, b, c) - max(a, b, c)
 
-cat("the  max is ",max)
-cat(" the min is ",min)
+cat("The mid element is ",mid)
