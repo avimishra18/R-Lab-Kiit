@@ -1,7 +1,4 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: KIIT
-# Created on: 04-08-2020
+
 
 n1 <- as.integer(readline("enter 1st n0"))
 n2 <- as.integer(readline("enter 2st n0"))

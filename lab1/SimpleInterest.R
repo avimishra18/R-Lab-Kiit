@@ -1,7 +1,4 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: KIIT
-# Created on: 7/28/2020
+
 
 rate <- 20
 time <- 3

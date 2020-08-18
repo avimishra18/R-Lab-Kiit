@@ -1,7 +1,4 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: KIIT
-# Created on: 04-08-2020
+
 n <- as.integer(readline(prompt = "enter a no"))
 if(n%%10==n){
   cat("no of digit is",1)

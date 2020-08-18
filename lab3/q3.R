@@ -8,7 +8,6 @@ count <- 2
 while(count < nterms) {
   nth <- n1 + n2
   print(nth)
-
   n1 <- n2
   n2 <- nth
   count <- count + 1

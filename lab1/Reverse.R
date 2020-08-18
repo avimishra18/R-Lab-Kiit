@@ -1,7 +1,4 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: KIIT
-# Created on: 7/28/2020
+
 number <- 12345
 reverse <- 0
 pow <- 1

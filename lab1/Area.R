@@ -1,7 +1,4 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: KIIT
-# Created on: 7/28/2020
+
 
 a <- 3
 b <- 4

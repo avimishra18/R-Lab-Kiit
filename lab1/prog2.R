@@ -1,7 +1,3 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: KIIT
-# Created on: 7/28/2020
 
 x <- 5
 y <- 10
