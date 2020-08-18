@@ -2,7 +2,7 @@
 A repo of R code 
 <h1>Questions</h1>	
 <p>
-<h3>Lab2</h6>
+<h6>Lab2</h6>
 Q.1	DISPLAY MAXIMUM OF TWO NUMBER.<br>
 Q.2.	DISPLAY A NUMBER IS POSITIVE OR NEGATIVE NUMBER.<br>
 Q.3.	DISPLAY A NUMBER IS ODD OR EVEN.<br>
@@ -24,16 +24,16 @@ Q.16.REMOVE ALL OF THEM.<br>
 <p>
 <h3>LAB 3</h3>
 <p>
-1- Write an R-script to analyze the given no. is palindrome no. or not?<b>
-2- Write an R-script to check the given no. is perfect no. or not?<b>
-3- Write an R-script to generate the Fibonacci series up to N terms.<b>
-4- Write an R-script to generate the following pattern<b>
-	1<b>
-	2  3<b>
-	4  5  6<b>
-	7  8  9  10<b>
-5 Write R prog to perform following operations on a more than 3 digit no<b>
-a) Reverse<b>
-b) Factors of that no<b>
-c) Sum of every digitof that no<b>
+1- Write an R-script to analyze the given no. is palindrome no. or not?<br>
+2- Write an R-script to check the given no. is perfect no. or not?<br>
+3- Write an R-script to generate the Fibonacci series up to N terms.<br>
+4- Write an R-script to generate the following pattern<br>
+	1<br>
+	2  3<br>
+	4  5  6<br>
+	7  8  9  10<br>
+5 Write R prog to perform following operations on a more than 3 digit no<br>
+a) Reverse<br>
+b) Factors of that no<br>
+c) Sum of every digitof that no<br>
 <p>
