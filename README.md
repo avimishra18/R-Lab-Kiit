@@ -19,20 +19,21 @@ Q.13.	DISPLAY DATA TYPE OF A VARIABLE.<br>
 Q.14.	DISPLAY ALL VARIABLE PRESENT IN MEMORY.<br>
 Q.15	REMOVE ONE OF THEM.<br>
 Q.16.REMOVE ALL OF THEM.<br>
-</p>
+
 
 <p>
 <h3>LAB 3</h3>
-3.4- Write an R-script to analyze the given no. is palindrome no. or not?
-3.5- Write an R-script to check the given no. is perfect no. or not?
-3.6- Write an R-script to generate the Fibonacci series up to N terms.
-3.7- Write an R-script to generate the following pattern-
-	1
-	2  3
-	4  5  6
-	7  8  9  10
-3.9 Write R prog to perform following operations on a more than 3 digit no
-a) Reverse
-b) Factors of that no
-c) Sum of every digitof that no
-</p>
+<p>
+1- Write an R-script to analyze the given no. is palindrome no. or not?<b>
+2- Write an R-script to check the given no. is perfect no. or not?<b>
+3- Write an R-script to generate the Fibonacci series up to N terms.<b>
+4- Write an R-script to generate the following pattern<b>
+	1<b>
+	2  3<b>
+	4  5  6<b>
+	7  8  9  10<b>
+5 Write R prog to perform following operations on a more than 3 digit no<b>
+a) Reverse<b>
+b) Factors of that no<b>
+c) Sum of every digitof that no<b>
+<p>
