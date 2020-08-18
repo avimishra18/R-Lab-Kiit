@@ -21,4 +21,18 @@ Q.15	REMOVE ONE OF THEM.<br>
 Q.16.REMOVE ALL OF THEM.<br>
 <p>
 
-<p><h3>LAB 3</h3></p>
+<p><h3>LAB 3</h3>
+<p>
+1- Write an R-script to analyze the given no. is palindrome no. or not?<br>
+2- Write an R-script to check the given no. is perfect no. or not?<br>
+3- Write an R-script to generate the Fibonacci series up to N terms.<br>
+4- Write an R-script to generate the following pattern-<br>
+	1<br>
+	2  3<br>
+	4  5  6<br>
+	7  8  9  10<br>
+5 Write R prog to perform following operations on a more than 3 digit no<br>
+a) Reverse<br>
+b) Factors of that no<br>
+c) Sum of every digitof that no<br>
+</p>
