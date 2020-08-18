@@ -10,7 +10,7 @@ while (i < n) {
 }
 
 if (s == n) {
-  print(paste("The number is perfect :", n))
+  cat("The number ",n,"is perfect")
 } else{
-  print(paste("The number is not perfect :", n))
+  cat("The number ",n," is not perfect ")
 }

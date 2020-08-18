@@ -1,7 +1,3 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: KIIT
-# Created on: 8/18/2020
 
 nterms <- as.integer(readline("Enter the  Number of terms "))
 n1 <- 0
