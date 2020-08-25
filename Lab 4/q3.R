@@ -21,7 +21,17 @@ dequeue<- function (){
   }
   v<-queue_list[front];
   front<<-front+1;
-  print(v)
+  #print(v)
+}
+printQue <- function (){
+  if(!is.null(queue_list)){
+      for (i in front:rear){
+        print(queue_list[i])
+      }
+
+
+  }
+
 }
 
 enqueue(23)
@@ -33,4 +43,5 @@ enqueue(100)
 dequeue()
 dequeue()
 dequeue()
+printQue()
 
