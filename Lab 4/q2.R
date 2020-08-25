@@ -1,7 +1,3 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: KIIT
-# Created on: 8/25/2020
 
 x <- matrix(c(1, 0, 2, -1,3, 0, 0, 5,2, 1, 4, -3,1, 0, 5, 0), 4, 4)
 

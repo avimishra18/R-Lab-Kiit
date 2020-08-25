@@ -1,13 +1,17 @@
-
-
-s <- readline("enter a string")
-s <- tolower(s)
-n <- strsplit(s,"")[[1]];
-count <- 0;
-for(i in n){
-  if(i=="a" || i=="e"||i=="i"||i=="o"||i=="u" ){
-    count <- count+1
-  }
+check <- function(x){
+    count <- 0
+    t <- c("a", "e", "i", "o", "u" , "A" ,"E" ,"I" , "O", "U")
+    for (i in  unlist(strsplit(x, ""))) {
+      if ( i %in% t ) {
+        count <- count + 1 
+      }   
+    }
+  cat("total no of vowels in '",x,"' is ",count)
 }
-print(count)
+
+
+my_string <- readline("enter a string : ")
+check(my_string)
+
+
 
