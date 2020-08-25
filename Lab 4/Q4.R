@@ -2,6 +2,7 @@
 # Objective : TODO
 # Created by: KIIT
 # Created on: 25-08-2020
+
 string <- "mainak"
 print(nchar(string))#count no of character
 print(paste("R","class","is ","very","boaring"))#concatenate String
