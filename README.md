@@ -43,7 +43,7 @@ c) Sum of every digit of that no<br>
 2. Calculate the determinant of a matrix.<br>
 3. Implement Queue Data structure<br>
 4. Analyze and implement the built-in string functions in the R-workspace.<br>
-5.Write an R-script to count the no. of characters within a string without space.
+5.Write an R-script to count the no. of characters within a string without space.<br>
 6.Write an R-script to extract a sub-string of 5 characters from the given string and replace that 	sub-string with "India" within the original string.<br>
 7.Write an R-script to check and count the total no. of vowels within the given string.<br>
 </p>
