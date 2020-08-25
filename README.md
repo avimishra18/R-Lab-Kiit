@@ -35,5 +35,5 @@ Q.16.REMOVE ALL OF THEM.<br>
 5 Write R prog to perform following operations on a more than 3 digit no<br>
 a) Reverse<br>
 b) Factors of that no<br>
-c) Sum of every digitof that no<br>
+c) Sum of every digit of that no<br>
 <p>

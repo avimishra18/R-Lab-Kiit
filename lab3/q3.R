@@ -2,7 +2,7 @@
 nterms <- as.integer(readline("Enter the  Number of terms "))
 n1 <- 0
 n2 <- 1
-count <- 2
+count <- 0
 
 print(0)
 print(1)
