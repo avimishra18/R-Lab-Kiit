@@ -24,26 +24,26 @@ Q.16.REMOVE ALL OF THEM.<br>
 <p>
 <h3>LAB 3</h3>
 <p>
-1- Write an R-script to analyze the given no. is palindrome no. or not?<br>
-2- Write an R-script to check the given no. is perfect no. or not?<br>
-3- Write an R-script to generate the Fibonacci series up to N terms.<br>
-4- Write an R-script to generate the following pattern<br>
+Q1- Write an R-script to analyze the given no. is palindrome no. or not?<br>
+Q2- Write an R-script to check the given no. is perfect no. or not?<br>
+Q3- Write an R-script to generate the Fibonacci series up to N terms.<br>
+Q4- Write an R-script to generate the following pattern<br>
 	1<br>
 	2  3<br>
 	4  5  6<br>
 	7  8  9  10<br>
-5 Write R prog to perform following operations on a more than 3 digit no<br>
+Q5 Write R prog to perform following operations on a more than 3 digit no<br>
 a) Reverse<br>
 b) Factors of that no<br>
 c) Sum of every digit of that no<br>
 <p>
 <h3>Lab 4</h3>
 <p>
-1. Pass a list of Values in a function a store the values in different lists according to their Class.<br>
-2. Calculate the determinant of a matrix.<br>
-3. Implement Queue Data structure<br>
-4. Analyze and implement the built-in string functions in the R-workspace.<br>
-5.Write an R-script to count the no. of characters within a string without space.<br>
-6.Write an R-script to extract a sub-string of 5 characters from the given string and replace that 	sub-string with "India" within the original string.<br>
-7.Write an R-script to check and count the total no. of vowels within the given string.<br>
+Q1. Pass a list of Values in a function a store the values in different lists according to their Class.<br>
+Q2. Calculate the determinant of a matrix.<br>
+Q3. Implement Queue Data structure<br>
+Q4. Analyze and implement the built-in string functions in the R-workspace.<br>
+Q5.Write an R-script to count the no. of characters within a string without space.<br>
+Q6.Write an R-script to extract a sub-string of 5 characters from the given string and replace that 	sub-string with "India" within the original string.<br>
+Q7.Write an R-script to check and count the total no. of vowels within the given string.<br>
 </p>
