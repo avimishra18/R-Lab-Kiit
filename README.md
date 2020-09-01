@@ -47,3 +47,9 @@ Q5.Write an R-script to count the no. of characters within a string without spac
 Q6.Write an R-script to extract a sub-string of 5 characters from the given string and replace that 	sub-string with "India" within the original string.<br>
 Q7.Write an R-script to check and count the total no. of vowels within the given string.<br>
 </p>
+
+<p>
+Q1. Implement Queue  in R . Create functions for implementing various operations.
+
+
+</p>
