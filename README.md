@@ -52,5 +52,12 @@ Q7.Write an R-script to check and count the total no. of vowels within the given
 <p>
 Q1. Implement Queue  in R . Create functions for implementing various operations.
 
-
+</p>
+<p>
+<h3>Lab 5</h3>
+<p>
+1- Write an R-script to initialize 5 elements to a vector and then find out square root of each and 	every element.<br>
+2- Write an R-script to initialize two vectors and then check both vectors are equal or not?<br>
+3- Write an R-script to initialize two vectors with 1s and 0s. Now perform AND operation with two vectors.<br>
+4- Write an R-script to enter the elements of a vector from the keyboard and sort the elements of vector in ascending order.<br>
 </p>
